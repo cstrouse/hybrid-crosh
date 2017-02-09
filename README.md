@@ -1,9 +1,15 @@
 # vim-hybrid terminal color configuration for crosh
 
+## Screenshots
+
+![crosh window using pallete](https://www.dropbox.com/s/8z0ldg5ipjo9v4w/hybrid-crosh-theme.png?dl=1)
+
 This is what the hybrid pallete looks like.
+
 ![palette](http://dl.dropbox.com/u/23813887/Xresources-palette.png)
 
 This is what the reduced contrast version of hybrid looks like.
+
 ![palette](https://www.dropbox.com/s/0ny88dmfw84kcma/Xresources-palette-low.png?dl=1)
 
 ## Installation
