@@ -20,4 +20,4 @@ This is what the reduced contrast version of hybrid looks like.
 
 2. Open the developer tools console in the Chrome tab you just opened by pressing Ctrl+Shift+J.
 
-3. Paste the contents of either [hybrid-prefs.js](hybrid-prefs.js) or [hybrid-reduced.js](hybrid-reduced.js) into the console and press enter. 
+3. Paste the contents of either [hybrid.js](hybrid.js) or [hybrid-reduced.js](hybrid-reduced.js) into the console and press enter. 
