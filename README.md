@@ -4,7 +4,7 @@ The original project can be found in w0ng's [vim-hybrid](https://github.com/w0ng
 
 ## Screenshots
 
-![crosh window using pallete](https://www.dropbox.com/s/8z0ldg5ipjo9v4w/hybrid-crosh-theme.png?dl=1)
+![crosh window using pallete](https://user-images.githubusercontent.com/849044/87636318-6ca10300-c6f5-11ea-9287-dfff3a177b55.png)
 
 This is what the hybrid pallete looks like.
 
